@@ -1,1 +1,3 @@
-This is a Poll Application that asks you your favorite superhero 
+This is my First Django App
+
+Polls that asks you for your favorite superhero 
