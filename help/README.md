@@ -2,6 +2,8 @@
 
 <p><a href="#" target="_blank">General Docs</a></p>
 
+<p><a href="https://docs.djangoproject.com/en/3.2/ref/models/querysets/#" target="_blank">API Ref</a></p>
+
 <p><a href="https://docs.djangoproject.com/en/4.0/topics/db/models/" target="_blank">Models</a></p>
 
 <p><a href="https://docs.djangoproject.com/en/4.0/ref/request-response/" target="_blank">Resquest and Response</a></p>
