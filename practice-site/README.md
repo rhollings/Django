@@ -1,1 +1,1 @@
-# Documentation of Me Learning Django
+Documentation of Me Learning Django
