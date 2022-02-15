@@ -1,6 +1,6 @@
 # Things I find helpful when working with Django
 
-<p><a href="#" target="_blank">General Docs</a></p>
+<p><a href="https://docs.djangoproject.com/en/4.0/" target="_blank">General Docs</a></p>
 
 <p><a href="https://docs.djangoproject.com/en/3.2/ref/models/querysets/#" target="_blank">API Ref</a></p>
 
